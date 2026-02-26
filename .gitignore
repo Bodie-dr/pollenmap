@@ -1,0 +1,6 @@
+﻿# Keep local secrets out of version control
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
