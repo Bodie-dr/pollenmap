@@ -1,0 +1,8 @@
+you need  these python libraries 
+pathlib
+geopy.geocoders
+pydeck
+requests
+streamlit
+dotenv
+os
